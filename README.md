@@ -9,6 +9,8 @@ Implements the algorithm from:
 > from the 1992 $M_L$ 5.8 Roermond, Netherlands, Earthquake.
 > *Seismological Research Letters*, doi: 10.1785/0220250139.
 
+Development assisted by ClaudeCode
+
 ## Installation
 
 ```bash
